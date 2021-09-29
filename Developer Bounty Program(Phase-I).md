@@ -29,11 +29,11 @@ Only clear, accurate descriptions of the issues, their impact, and plans for rep
 
 
 
-### Bounty #2: Fix bugs and the optimize features
+### Bounty #2: Fix issues and the optimize features
 
 **Description**:
 
-Analyze and locate issues that have been marked as bugs, record the analysis and locating process in the Issue, and submit a Pull Request.
+Analyze and locate issues that have been marked as bugs / help wanted, record the analysis and locating process in the Issue, and submit a Pull Request.
 
 Work out optimization solutions for performance, safety, availability, etc., and submit a Pull Request.
 
@@ -54,11 +54,11 @@ The new code must be covered by [UT](https://en.wikipedia.org/wiki/Unit_testing)
 
 
 
-### Bounty #3: Participate in the development of Alaya0.16.0 (AIP-17)
+### Bounty #3: Participate in the development of Alaya's underlying protocols
 
 **Description**:
 
-Optimize features and fix bugs in Alaya0.16.0. Refer to the link for details: https://github.com/AlayaNetwork/AIPs/blob/master/Alaya/AIP-17.md
+Optimize features and fix bugs in Alaya0.16.0 and subsequent releases. Refer to the link for details: https://github.com/AlayaNetwork/AIPs/blob/master/Alaya/AIP-17.md
 
 **Requirements:**
 
@@ -72,11 +72,11 @@ The new code must be covered by [UT](https://en.wikipedia.org/wiki/Unit_testing)
 
 
 
-### Bounty #4: Participate in the development of PlatON 1.1.0 (PIP-3)
+### Bounty #4: Participate in the development of PlatON's underlying protocols
 
 **Description**:
 
-Optimize features and fix bugs in PlatON 1.1.0. Refer to the link for details: https://github.com/PlatONnetwork/PIPs/blob/master/PIPs/PIP-3.md
+Optimize features and fix bugs in PlatON 1.1.0 and subsequent releases. Refer to the link for details: https://github.com/PlatONnetwork/PIPs/blob/master/PIPs/PIP-3.md
 
 **Requirements:**
 
