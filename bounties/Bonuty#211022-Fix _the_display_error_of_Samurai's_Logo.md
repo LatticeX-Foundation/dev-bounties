@@ -1,4 +1,4 @@
-# Bonuty211011-Fix the display error of Samurai's Logo
+# Bonuty#211011 - Fix the display error of Samurai's Logo
 ## Specific requirements
 
 1.  Fix the display of Samurai's Logo, that is, display Samurai's Logo in place 1.
