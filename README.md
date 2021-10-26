@@ -10,7 +10,14 @@ To encourage community developers to get more involved in the development and de
 
 
 
+
+#### [Bonuty#211011 - Fix the display error of Samurai's Logo](https://github.com/LatticeX-Foundation/dev-bounties/blob/main/bounties/Bonuty%23211022-Fix_the_display_error_of_Samurai's_Logo.md)
+
+
+
+
 **More Bounties will be released in the future. Stay tuned!**
+
 
 
 
