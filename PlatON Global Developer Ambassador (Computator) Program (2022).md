@@ -224,4 +224,6 @@ As a PlatON Ambassador and a member of the PlatON ecosystem, all contributions t
 
 
 
-We are convinced that data is our most fundamental and crucial “inherent right” in an era of digital economy. Challenges such as the protection of data privacy and sovereignty, the promotion of data circulation, the creation of data-based value, and the facilitation of collaborative computation are beyond the reach of any single individual or organization. This is why we are asking you to join us, starting from this moment!
+
+
+**We are convinced that data is our most fundamental and crucial “inherent right” in an era of digital economy. Challenges such as the protection of data privacy and sovereignty, the promotion of data circulation, the creation of data-based value, and the facilitation of collaborative computation are beyond the reach of any single individual or organization. This is why we are asking you to join us, starting from this moment!**
