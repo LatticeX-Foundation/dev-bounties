@@ -1,3 +1,5 @@
+# PlatON Developer Program
+
 PlatON is a new generation of privacy-preserving AI network initiated and driven by the LatticeX Foundation, and is also an open-source community project. Such a huge infrastructure requires joint effort from community developers. 
 
 
@@ -6,7 +8,9 @@ PlatON is a new generation of privacy-preserving AI network initiated and driven
 
 Backed by the LatticeX Foundation’s Computator Fund, the PlatON Global Developer Ambassador Program has officially started its recruitment to allow developers from all regions to join the building of a “smart network” and expand the protocol’s global influence and recognition while achieving its mission. Your help will be key to PlatON’s growth in local developer communities.
 
-#### PlatON Global Developer Ambassador (Computator) Program (2022)
+
+
+#### [PlatON Global Developer Ambassador (Computator) Program (2022)](https://github.com/LatticeX-Foundation/dev-bounties/blob/main/PlatON%20Global%20Developer%20Ambassador%20(Computator)%20Program%20(2022).md)
 
 
 
