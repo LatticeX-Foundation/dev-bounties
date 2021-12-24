@@ -172,7 +172,7 @@ Incentives for PlatON Global Developer Ambassadors cover 2 parts: Base Salary + 
 
 | Level        | Required Period for Upgrade | Base Salary      |
 | ------------ | --------------------------- | ---------------- |
-| Intern       | 21 days                     | 22,000 LAT/month |
+| Intern       | 21 days                     | 2,000 LAT/month |
 | Entry        | 3 months                    | 4,000 LAT/month  |
 | Intermediate | 6 months                    | 8,000 LAT/month  |
 | Senior       | 12 months                   | 12,000 LAT/month |
